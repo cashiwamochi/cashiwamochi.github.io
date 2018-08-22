@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Unlimited Bug Works</title>
-    <link>https://github.com/cashiwamochi/cashiwamochi.github.io/tags/</link>
+    <link>https://cashiwamochi.github.io/tags/</link>
     <description>Recent content in Tags on Unlimited Bug Works</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Copyright cashiwamochi</copyright>
     
-	<atom:link href="https://github.com/cashiwamochi/cashiwamochi.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://cashiwamochi.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
