@@ -3,17 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://cashiwamochi.github.io/about/</loc>
+    <lastmod>2018-08-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cashiwamochi.github.io/posts/first_post/</loc>
+    <lastmod>2018-08-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://cashiwamochi.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://cashiwamochi.github.io/tags/others/</loc>
+    <lastmod>2018-08-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://cashiwamochi.github.io/posts/</loc>
+    <lastmod>2018-08-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://cashiwamochi.github.io/tags/</loc>
+    <lastmod>2018-08-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://cashiwamochi.github.io/</loc>
+    <lastmod>2018-08-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
